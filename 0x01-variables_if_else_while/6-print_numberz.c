@@ -11,6 +11,6 @@ int main(void)
 	{
 		putchar((y % 10) + '0');
 	}
-	putcha('\n');
+	putchar('\n');
 	return (0);
 }
