@@ -47,4 +47,4 @@ void print_times table(int n)
 			_putchar('\n');
 		}
 	}
-}
+}}}
