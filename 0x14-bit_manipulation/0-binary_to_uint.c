@@ -9,6 +9,7 @@
 unsigned int binary_to_unit(const char *b)
 {
 	int k;
+
 	unsigned int decimal = 0;
 
 	if (!b)

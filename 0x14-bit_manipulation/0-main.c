@@ -20,4 +20,4 @@ int main(void)
 	n = binary_to_unit("000000000000000000110010010");
 	printf("%u\n", n);
 	return (0);
-}
+ }
