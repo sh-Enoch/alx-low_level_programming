@@ -4,9 +4,9 @@
 *@dlistint_t *h: pointer to the first element in the list
 *Return: number of nodes
 */
-size_t print_dlistint(const dlistint_t *h);
+size_t print_dlistint(const dlistint_t *h)
 {
-    dlistint_t * current = head;
+    const dlistint_t * current = h;
     int count = 0;
 
     while (current != NULL)
